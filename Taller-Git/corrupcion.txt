@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Nuevo Proceso Añadido en master
+=======
+Nuevo Proceso Añadido en feature
+>>>>>>> feature
