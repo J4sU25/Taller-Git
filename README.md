@@ -1,4 +1,6 @@
-# Se intentó crear una rama "feature" inicialmente, pero hubo problemas porque no se estaba en un repositorio Git.
+#Pasos Seguidos
+
+Se intentó crear una rama "feature" inicialmente, pero hubo problemas porque no se estaba en un repositorio Git.
 Se navegó al directorio correcto (Taller-Git) y se creó exitosamente la rama "feature".
 
 
